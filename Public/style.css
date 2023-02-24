@@ -1,0 +1,50 @@
+body {
+    background-color: gainsboro;
+  }
+  
+  h2 {
+    background-color: tomato;
+    font-family: Arial;
+    height: 50px;
+    width: 600px;
+    padding-top: 20px;
+    padding-left:20px;
+  }
+
+  form {
+    background-color: lightgreen;
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 900px;
+    margin-left: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px;
+    border-radius: 3px;
+  }
+
+  button[type="submit"] {
+    background-color: crimson;
+    color: white;
+    padding: 4px 4px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+    padding-right: 730px;
+    margin: 0;
+  }
+  
+  li {
+    margin: 8px;
+    border-style: groove;
+    padding: 6px;
+    background-color: lightblue;
+  }
