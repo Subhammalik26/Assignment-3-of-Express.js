@@ -9,7 +9,7 @@
 - On "users" route show the dummy users.
 
 
-# OUTOUT:-
+# OUTPUT:-
 
 
 ![Home_page](https://user-images.githubusercontent.com/99710364/221108274-6818cc2e-2ec7-4c38-94d5-1245da3d1e9a.png)
