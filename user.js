@@ -1,4 +1,4 @@
-const express = require('express');   // Include the HTTP module.
+const express = require('express');   // Include the express module.
 const bodyParser = require('body-parser');   // Include the body-parser module.
 const path = require('path');   // Include the path module.
 const fs = require('fs');    // Include the File System module.
